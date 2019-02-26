@@ -1,0 +1,13 @@
+
+11 lines (10 sloc) 76 Bytes
+###Scala###
+target
+*.class
+*.log
+
+###Intellij###
+*.iml
+*.ipr
+*.iws
+.idea
+out
