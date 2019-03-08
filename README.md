@@ -10,3 +10,7 @@ Every tasks shown in the lectures of all four weeks. Simple programs for
 3. Data and Abstraction
 
 4. Types and Pattern Matching
+
+5. Lists
+
+6. Collections
