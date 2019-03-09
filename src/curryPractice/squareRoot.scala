@@ -4,7 +4,7 @@
 
 /* Write a square root function using fixed point and averageDamp */
 
-import math.abs
+import scala.math.abs
 
   val tolerance = 0.0001
 

@@ -1,5 +1,4 @@
 
-import polyMorphism._
 
 object nth {
   def nth[T](n:Int, xs: List[T]): T =
